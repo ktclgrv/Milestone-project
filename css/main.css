@@ -1,0 +1,184 @@
+/*******grid**********/
+.container{
+	width: 1425px;
+  height: 3100px;
+	margin: 0 auto;
+  padding-left: 20px;
+}
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.work{
+  height: 1450px;
+  margin: 0 auto;
+  clear: both;
+}
+#about{
+  height: 650px;
+  margin: 0 auto;
+  background-color: #087e8b;
+  color: #ffffff;
+
+}
+#footer{
+  width: 1425px;
+  height: 400px;
+  margin: 0 auto;
+  float: left;
+  clear: both;
+  background-color: #095156;
+  color: #ffffff;
+}
+.three-sections {
+  float: left;
+}
+/********header*********/
+.header-image {
+  background-image: url('../img/hero-image.png');
+  background-repeat: no-repeat;
+  height: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 240px;
+
+}
+.header h1 {
+  text-align: center;
+}
+.header h2 {
+  text-align: center;
+}
+
+/*******styles********/
+}
+ h1 {
+   font-family: 'Roboto', serif;
+   font-size: 60px;
+ }
+ h2 {
+   font-family: 'Roboto Slab', sans-serif;
+   font-size: 48px;
+ }
+ h3 {
+   font-family: 'Roboto', serif;
+   font-size: 36px;
+
+ }
+h4 {
+  font-family: 'Roboto', serif;
+  font-size: 24px;
+}
+p {
+  font-family: 'Roboto Slab', sans-serif;
+  font-size: 24px;
+}
+
+
+/********WORK********/
+.section-one,
+.section-two,
+.section-three,
+.about {
+	width: 1200px;
+	height: 400px;
+  padding-left: 68px;
+
+}
+.portfolio-title h3 {
+  text-align: center;
+  width:1200px;
+  font-family: 'Roboto Slab', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  margin: 0;
+	padding-left: 68px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+
+.rogue-image,
+.jubilee-image,
+.recipe-image,
+.katie-image {
+  float: left;
+}
+
+.text-beside-rogue,
+.text-beside-jubilee,
+.text-beside-recipe,
+.katie-about {
+  width: 599px;
+  float:left;
+  padding-left: 40px;
+}
+/*******ABOUT********/
+.about-title h3 {
+  text-align: center;
+  width:1200px;
+  font-family: 'Roboto Slab', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  margin: 0 auto;
+	padding-left: 38px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+
+.katie-image  {
+  margin: 0 auto;
+	padding-left: 40px;
+  padding-top: 25px;
+}
+
+.katie-about {
+  padding-top: 50px;
+}
+
+
+/**********contact********/
+.contact {
+  height: 400px;
+}
+.contact-title h3{
+  text-align: center;
+  width:1200px;
+  font-family: 'Roboto Slab', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  margin: 0 auto;
+	padding-left: 68px;
+  clear: both;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.hire-me,
+.follow-me,
+.meet-me {
+  float: left;
+  width: 399px;
+  padding-left: 68px;
+  text-align: center;
+}
+.hire-me h3,
+.follow-me h3,
+.meet-me h3 {
+  font-family: 'Roboto Slab', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+}
+ .follow-me ul {
+   list-style: none;
+ }
+
+.follow-me ul li {
+  display: inline-block;
+}
+.follow-me ul li img{
+  font-size: 32px;
+  padding-right: 50px;
+}
